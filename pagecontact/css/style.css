@@ -66,4 +66,12 @@ h1,h2,h3,h4,h5,h6,p{/*background: lightblue;*/ text-align: center; color: white;
 	to{left: 0vw; top: 96vh}
 	}
 
+.delay2{animation-delay: 2s;}
+.delay4{animation-delay: 4s;}
+.delay6{animation-delay: 6s;}
+.delay8{animation-delay: 8s;}
+.delay10{animation-delay: 10s;}
+.delay12{animation-delay: 12s;}
+.delay14{animation-delay: 14s;}
+
 .p:hover{color: white;}
